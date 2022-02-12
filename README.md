@@ -3,3 +3,5 @@ Hi ! This is my online notebook. In this repo i  created two section. One for re
 I try to describe every solution steps by steps as a result i can revison them and memorize the new technique.
 
 
+[RESOURCES](https://github.com/NiloyDas19/NOTE-FOR-MY-CP-JOURNEY/tree/main/RESOURCES) </br>
+[PROBLEM](https://github.com/NiloyDas19/NOTE-FOR-MY-CP-JOURNEY/tree/main/PROBLEM) </br>
