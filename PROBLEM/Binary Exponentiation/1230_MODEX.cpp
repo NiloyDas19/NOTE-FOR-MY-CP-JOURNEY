@@ -1,3 +1,6 @@
+
+//https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3671
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -16,12 +19,15 @@ long long biexpoi(long long a, long long n, long long mod)
 
 int main()
 {
-    ios::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
     long long t;
     while (1)
     {
         cin >> t;
-        if(t==0) break;
+        if (t == 0)
+            break;
         while (t--)
         {
             long long a, n, mod;
