@@ -5,4 +5,4 @@ I try to describe every solution steps by steps as a result i can revison them a
 
 [RESOURCES](https://github.com/NiloyDas19/NOTE-FOR-MY-CP-JOURNEY/tree/main/RESOURCES) </br>
 [PROBLEM](https://github.com/NiloyDas19/NOTE-FOR-MY-CP-JOURNEY/tree/main/PROBLEM) </br>
-[PROBLEM](https://github.com/NiloyDas19/NOTE-FOR-MY-CP-JOURNEY/tree/main/Template) </br>
+[Template](https://github.com/NiloyDas19/NOTE-FOR-MY-CP-JOURNEY/tree/main/Template) </br>
