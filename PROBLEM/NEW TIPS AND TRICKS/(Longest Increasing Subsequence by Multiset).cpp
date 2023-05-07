@@ -1,5 +1,6 @@
 // BLOG LINK : https://codeforces.com/blog/entry/13225
 
+//LIS for full array
 ll LIS_BY_MULTISET(vector<ll> &a)
 {
 	multiset<ll> s;
@@ -13,3 +14,14 @@ ll LIS_BY_MULTISET(vector<ll> &a)
 	return (ll)s.size();
 }
 
+// LIS for every index as a higest number
+vector<int> LIS(vector<int>& a) {
+	vector<int> lis,ans;
+	for(auto &it:a){
+		int indx = upper_bound(lis.begin(),lis.end(),it)-lis.begin();
+		if(indx==(int)lis.size()) lis.push_back(it);
+		else lis[indx] = it;
+		ans.push_back(indx+1);
+	}
+	return ans;
+}
