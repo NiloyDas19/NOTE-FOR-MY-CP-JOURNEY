@@ -19,6 +19,7 @@ void Preprocess()
 
 struct Hashing{
     ll hsh[2][MAX];
+    string str;
     Hashing(){};
     Hashing(string _str) {str = _str; memset(hsh,0,sizeof(hsh)); Build();}
 
